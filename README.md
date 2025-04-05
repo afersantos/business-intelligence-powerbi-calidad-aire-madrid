@@ -18,7 +18,7 @@ El Sistema de Inteligencia de Negocio se ha creado con la herramienta Power BI.
 Dashboard elaborado con Power BI para el análisis de la calidad del aire en la Comunidad de Madrid. 
 
 <div align="center">
-  <img src="assets/dashboard.png" alt="UCJC Logo" width="300"/>
+  <img src="assets/dashboard.png" alt="UCJC Logo" width="500"/>
 </div>
 
 El archivo contiene la fase de ETL, almacenamiento de datos y visualización a través del propio Dashboard.
@@ -27,7 +27,7 @@ El archivo contiene la fase de ETL, almacenamiento de datos y visualización a t
 Presentación referente al análisis de la calidad del aire en la Comunidad de Madrid para el año 2024. 
 
 <div align="center">
-  <img src="assets/dashboard_2024.png" alt="UCJC Logo" width="300"/>
+  <img src="assets/dashboard_2024.png" alt="UCJC Logo" width="500"/>
 </div>
 
 Todos los datos y visualizaciones de la presentación, han sido extraídas del Sistema de Inteligencia de Negocio creado en este proyecto.

@@ -4,7 +4,7 @@
   <img src="assets/ucjc-logo.png" alt="UCJC Logo" width="300"/>
 </div>
 
-Este repositorio contiene varios archivos referentes a un Sistema de Inteligencia de Negocio para análisis de la calidad del aire en la Comunidad de Madrid, creados como parte del **Máster en Ciencia de Datos** de la **Universidad Camilo José Cela**. Este proyecto académico ha sido diseñado para poner en práctica los conocimientos adquiridos en el ámbito del Business Intelligence a lo largo del máster.
+Este repositorio contiene varios archivos referentes a un Sistema de Inteligencia de Negocio para el análisis de la calidad del aire en la Comunidad de Madrid, creados como parte del **Máster en Ciencia de Datos** de la **Universidad Camilo José Cela**. Este proyecto académico ha sido diseñado para poner en práctica los conocimientos adquiridos en el ámbito del Business Intelligence a lo largo del máster.
 
 ---
 
